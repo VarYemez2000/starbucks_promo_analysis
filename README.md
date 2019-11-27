@@ -1,3 +1,5 @@
+Link to Medium Post - https://medium.com/@manishraj013/analyzing-starbucks-promotion-data-506a0f647e69
+
 # Starbucks Promotion Analysis
 ## Table of Contents
 1. [Project Motivation](#pd) <br>

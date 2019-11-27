@@ -44,7 +44,6 @@ KMeans is used to build the cluster. As a result,  4 group of customers with a q
 ## 4. Build with
 - Python 3+
 - Machine Learning Libraries: NumPy, Pandas, SciKit Learn
-- Web App and Data Visualization:Plotly 
 
 <a name="ca"></a>
 ## 5. Credits and Acknowledgements
